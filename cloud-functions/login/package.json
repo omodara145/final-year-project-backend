@@ -1,0 +1,16 @@
+{
+  "name": "get_number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=timetabler_login",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^7.0.0",
+    "@google-cloud/functions-framework": "^1.3.2"
+  }
+}
